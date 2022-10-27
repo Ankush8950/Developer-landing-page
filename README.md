@@ -3,7 +3,7 @@
 
 
 
-# **Lending Web Page**
+# **Landing Web Page**
 
 
 # Using Technology
@@ -12,10 +12,10 @@
 
 ---
 # Time to Complete project
-> around 8 to 10 hours completing project with responsive
+> around 8 to 10 hours in completing project with responsive
 ---
 ## 🚀  Project Live Link <br>
 ---
-This project is been hosted on netlify. [Live Project Link]()
+This project is been hosted on netlify. [Live Project Link](https://moonlit-rolypoly-ca890e.netlify.app/)
 
-![Lending web page](/web%20page.png)
+![Landing web page](/web%20page.png)
